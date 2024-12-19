@@ -6,7 +6,6 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include <errno.h>
-#include <arpa/inet.h>
 
 #define msglength 516
 
